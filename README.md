@@ -31,3 +31,4 @@ Managing complex application states with React Hooks (useState, useEffect).
 Handling Cross-Origin Resource Sharing (CORS) and environment variables.
 
 Deploying middleware for security and performance.
+The site is live on:https://mern-notetakingapp-xpv6.onrender.com/
